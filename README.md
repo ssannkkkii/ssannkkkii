@@ -34,4 +34,5 @@ Almost all the code here was written and developed by me, although there is some
 
 If you're a goth mommy or need my help as a developer, get in touch with me.
 
-- "[Telegram][https://t.me/ssannnkkichannel]"
+- Telegram
+- Patreon
