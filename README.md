@@ -30,4 +30,8 @@ Almost all the code here was written and developed by me, although there is some
 
 #
 
-### Don't forget to code every day and develop your brains! Don't be vegetables!!!
+### ☎️ Contacts
+
+If you're a goth mommy or need my help as a developer, get in touch with me.
+
+- "[Telegram][https://t.me/ssannnkkichannel]"
