@@ -4,12 +4,8 @@
 
 **`Backend Engineer (CyberSecurity/Crypto/Linux)`**
 
-I'm an backend enginner, some times a frontend developer. ❤️ goth mommys, the theme of war and shit codding.
+I'm an backend enginner, some times a frontend developer.
 Almost all the code here was written and developed by me, although there is some stolen code from others, but it's not for you to judge me. Sometimes I write programs for my own use or learning, and I also write a lot of code for work, but I won't show it 🤓☝️.
-
-- Content creator
-- Senior in Meuf Corp
-
 ---
 
 ### 🧰 Languages and Tools
@@ -34,10 +30,3 @@ Almost all the code here was written and developed by me, although there is some
 <br />
 
 #
-
-### ☎️ Contacts
-
-If you're a goth mommy or need my help as a developer, get in touch with me.
-
-- Telegram
-- Patreon
