@@ -27,8 +27,5 @@ Almost all the code here was written and developed by me, although there is some
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="30px" style="padding-right:10px;" alt="Django" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px" style="padding-right:10px;" alt="Docker" />
 
-<br />
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=knucklesuganda&show_icons=true&theme=radical" alt="Github statistics" align="left">
 #
